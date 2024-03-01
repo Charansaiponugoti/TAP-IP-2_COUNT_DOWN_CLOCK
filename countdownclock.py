@@ -19,6 +19,6 @@ def countdown_clock(target_event):
 
         # Wait for one second before updating the countdown
         time.sleep(1)
-# Example usage: Countdown to New Year's Day
+# Example usage: Countdown to New Year's Daygygyu
 target_event = '2023-01-01 00:00:00'
 countdown_clock(target_event)
